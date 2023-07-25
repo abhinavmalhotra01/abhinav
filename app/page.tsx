@@ -5,7 +5,10 @@ import Particles from "./components/particles";
 const navigation = [
   { name: "Projects", href: "/projects" },
   { name: "Contact", href: "/contact" },
-  { name: "Resume", href: "/" },
+  {
+    name: "Resume",
+    href: "https://drive.google.com/file/d/1y8DdVGSS1g1BnigNCmkHpt13LW8WMnkP/view",
+  },
   { name: "Skills", href: "/skills" },
 ];
 
