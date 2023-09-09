@@ -42,10 +42,6 @@ export default function Home() {
         <h2 className="text-sm text-zinc-500 ">
           Hi, my name is Abhinav, I'm an undergraduate engineering student and
           fascinated by software world.
-          <br />I would like to be a part of an organisation that will provide
-          with an opportunity to explore my potential and capabilities to the
-          fullest, in order to achieve the company's objective and growth with
-          maximum proficiency and effectiveness.
         </h2>
       </div>
     </div>
